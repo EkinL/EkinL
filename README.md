@@ -1,26 +1,28 @@
-# Hi there, I'm Lilian Hammache 👋
+# 👋 Hi there, I'm **Lilian Hammache**
 
-I'm a passionate web developer specializing in Symfony, React, Vue, and other modern web technologies. Currently, I'm in my fourth year as a Tech Lead at EEMI.
+🎯 A passionate web developer specializing in **Symfony**, **React**, **Vue**, and other modern web technologies.  
+🚀 Currently a **4th-year Tech Lead at EEMI** and developer at **MOJO**.
 
-## About Me
+## 👤 About Me
 
-- **Name:** Lilian Hammache
-- **Location:** Paris, France
-- **Education:** 4th-year Tech Lead at EEMI
-- **Current Role:** Developer at MOJO
+- **🧑‍💻 Name:** Lilian Hammache  
+- **📍 Location:** Paris, France  
+- **🎓 Education:** 4th-year Tech Lead at EEMI  
+- **💼 Current Role:** Developer at MOJO  
 
-## Skills
+## 🛠️ Skills
 
-- **Backend:** Symfony, PHP
-- **Frontend:** React, Vue.js, JavaScript, HTML, CSS
-- **Other:** API development, SQL, Twig, Python, Javascript, Swift, Java
+- **🔙 Backend:** Symfony, PHP  
+- **🎨 Frontend:** React, Vue.js, JavaScript, HTML, CSS  
+- **🧩 Other:** API development, SQL, Twig, Python, JavaScript, Swift, Java  
 
-## Connect with Me
+## 🤝 Connect with Me
 
-- **Website:** [lilianhammache.com](https://lilianhammache.com)
-- **LinkedIn:** [lilian-hammache](https://www.linkedin.com/in/lilian-hammache)
+- **🌐 Website:** [lilianhammache.com](https://lilianhammache.com)  
+- **💼 LinkedIn:** [lilian-hammache](https://www.linkedin.com/in/lilian-hammache)  
 
-I'm always open to collaborating on interesting projects and discussing web development topics. Let's connect!
+💬 Always open to collaborating on exciting projects and chatting about web development.  
+**Let’s connect!** 🚀
 
 <!--
 **EkinL/EkinL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
