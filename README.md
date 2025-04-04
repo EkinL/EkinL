@@ -14,7 +14,7 @@
 
 - **🔙 Backend:** Symfony, PHP  
 - **🎨 Frontend:** React, Vue.js, JavaScript, HTML, CSS  
-- **🧩 Other:** API development, SQL, Twig, Python, JavaScript, Swift, Java  
+- **🧩 Other:** API development, SQL, Twig, Python, Swift, Java  
 
 ## 🤝 Connect with Me
 
