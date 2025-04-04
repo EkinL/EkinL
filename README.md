@@ -13,13 +13,7 @@ I'm a passionate web developer specializing in Symfony, React, Vue, and other mo
 
 - **Backend:** Symfony, PHP
 - **Frontend:** React, Vue.js, JavaScript, HTML, CSS
-- **Other:** API development, PLpgSQL, Twig, Python, TypeScript, Swift
-
-## Projects
-
-Here are some of my notable projects:
-
-- [**rickAndMorty**](https://github.com/EkinL/rickAndMorty): A Vue.js project related to the Rick and Morty series.
+- **Other:** API development, SQL, Twig, Python, Javascript, Swift, Java
 
 ## Connect with Me
 
