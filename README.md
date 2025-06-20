@@ -8,7 +8,7 @@
 - **🧑‍💻 Name:** Lilian Hammache  
 - **📍 Location:** Paris, France  
 - **🎓 Education:** 4th-year Tech Lead at EEMI  
-- **💼 Current Role:** Developer at MOJO  
+- **💼 Current Role:** Developer at _Comming soon..._  
 
 ## 🛠️ Skills
 
