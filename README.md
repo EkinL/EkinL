@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e22ce,100:581c87&height=200&section=header&text=Bienvenue%20👋%20Welcome&fontSize=40&fontAlign=70&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3431d4,100:3431d4&height=200&section=header&text=Bienvenue%20👋%20Welcome&fontSize=40&fontAlign=70&fontColor=ffffff" />
 </p>
 
 <h1 align="center">Hi, I'm Lilian 👨🏻‍💻 | Developper Fullstack</h1>
