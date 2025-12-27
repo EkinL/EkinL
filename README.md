@@ -42,7 +42,7 @@ I’m currently open to new full-time or freelance opportunities.
 
 | 🧑‍💻 Role                                    | 🏢 Company | 📅 Period    | ⚙️ Main Technologies and Tools | 🎯 Objectives                                                                                                                                                                           |
 | ------------------------------------------ | ---------- | ------------ | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fullstack Developer                        | Loading...       | 2025 - Today | PHP, Symfony, Twig, SQL        | I will develop tools and websites, and provide customer support.                                                                                                                        |
+| Fullstack Developer                        | Assurance maladie       | 2025 - Today | PHP, Symfony, Twig, SQL        | I will develop tools and websites, and provide customer support.                                                                                                                        |
 | Fullstack Developer & Salesforce Developer | MOJO       | 2022 - 2025  | PHP, Wordpress, Apex, Lwc      | Worked on automation processes, dashboard creation, and client support within Salesforce. Also contributed to the visual identity, including logo, graphic charter, and website design. |
 
 ## 📫 Contact
